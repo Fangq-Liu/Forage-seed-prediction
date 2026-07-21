@@ -18,7 +18,7 @@ your_repo/
 Python 3.7.2 
 ```bash
 # Install dependencies
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow os shutil glob pathlib re pillow sys
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow pillow
 ```
 
 ## Quick Start
