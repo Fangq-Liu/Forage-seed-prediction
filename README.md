@@ -8,6 +8,14 @@
 > *"A deep learning pipeline enables robust phenotype measurement of small forage seeds via multispectral imaging"* (**Measurement**, IF: 6.0).  
 > 🔗 [Link to the paper](<https://doi.org/10.1016/j.measurement.2025.119820>)
 
+## 📖 Introduction
+This repository provides a robust deep learning framework for the rapid and accurate classification of forage seeds with highly similar phenotypes. 
+
+### ✨ Key Features
+*   **Feature Optimization:** Integrates normalized Canonical Discriminant Analysis (**nCDA**) with ResNet-18 to effectively reduce multispectral feature redundancy.
+*   **Uncertainty Quantification:** Employs **MC Dropout** for robust model evaluation and anti-noise performance.
+*   **Explainable AI (XAI):** Utilizes **SHAP** attribution analysis to identify key decision wavelengths (e.g., 630 nm), providing biological interpretability for the deep learning predictions.
+
 # Forage-seed-prediction
 ResNet-18(or CNN) based deep learning model for rapid classification of forage seed with tiny difference.
 
