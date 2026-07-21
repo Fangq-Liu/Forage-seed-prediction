@@ -6,7 +6,7 @@
 
 > **Official Implementation** for the paper:  
 > *"A deep learning pipeline enables robust phenotype measurement of small forage seeds via multispectral imaging"* (**Measurement**, IF: 6.0).  
-> 🔗 [Link to the paper](<doi.org/10.1016/j.measurement.2025.119820>)
+> 🔗 [Link to the paper](<https://doi.org/10.1016/j.measurement.2025.119820>)
 
 # Forage-seed-prediction
 ResNet-18(or CNN) based deep learning model for rapid classification of forage seed with tiny difference.
